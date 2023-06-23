@@ -34,7 +34,7 @@ void addqueue(stack_t **head, int n)
 	if (ext)
 	{
 		while (ext->next)
-			ext= ext->next;
+			ext = ext->next;
 	}
 	if (!ext)
 	{

@@ -3,7 +3,7 @@
  * f_mod - function to computes the division of second top element of stack
  * @head: stack head
  * @counter: number line
- * Return: nothing 
+ * Return: nothing
 */
 
 void f_mod(stack_t **head, unsigned int counter)
